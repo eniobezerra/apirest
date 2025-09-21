@@ -72,5 +72,11 @@ app.listen(PORT, () => {
     console.log(`Servidor rodando em http://localhost:${PORT}`);
 });
 
-
-
+// --- Fim do código ---
+// Para rodar o servidor, use o comando: node server.js
+// A API estará disponível em http://localhost:3000
+// Você pode testar as rotas usando ferramentas como Postman ou curl.
+// --- Fim do código ---
+// Para rodar o servidor, use o comando: node server.js
+// A API estará disponível em http://localhost:3000
+// Você pode testar as rotas usando ferramentas como Postman ou curl.       
